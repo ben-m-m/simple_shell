@@ -4,7 +4,7 @@
 /*
  * File: shell.h
  * Authors: Kevin Kinyua
- *          
+ *          Benson Maina
  */
 
 #include <fcntl.h>

@@ -1,7 +1,7 @@
 /*
  * File: getline.c
  * Authors: Kevin Kinyua
- *          
+ *          Benson Maina
  */
 
 #include "shell.h"
