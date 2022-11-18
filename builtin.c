@@ -1,6 +1,6 @@
 /*
  * File: builtin.c
- * Authors: tewodros awedew and messi zewde
+ * Authors: Kevin Kinyua
  */
 #include "shell.h"
 int (*get_builtin(char *command))(char **args, char **front);
