@@ -1,6 +1,6 @@
 /*
  * File: env_builtins.c
- * Auth: tewodros awedew and messi zewde
+ * Auth: Kevin Kinyua and Benson Maina
  */
 #include "shell.h"
 
